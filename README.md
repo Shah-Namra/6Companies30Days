@@ -9,7 +9,7 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 
 Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Print Anagrams Together](./goldman-sachs/Minimize_the_Maximum_of_Two_Arrays.md)                                                     | [![Problem Link](./assets/gfg.svg)](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)                              | ✅
+1   | [Print Anagrams Together](./goldman-sachs/Minimize_the_Maximum_of_Two_Arrays.cpp)                                                     | [![Problem Link](./assets/gfg.svg)](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)                              | ✅
 
 
 
