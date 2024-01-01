@@ -1,7 +1,8 @@
 # 6 Companies 30 Days Challenge
 
 In this repo I am uploading my solutions for [6Companies30Days Challenge](https://www.youtube.com/watch?v=4dBadnH-k0o) by [Arsh Goyal](https://twitter.com/arsh_goyal)
-List of Questions [link] (https://www.proelevate.in/dsa-practice/6-companies-30-days) 
+
+List of Questions [link](https://www.proelevate.in/dsa-practice/6-companies-30-days) 
 
 ## Problem Sets
 
