@@ -3,11 +3,11 @@
 In this repo I am uploading my solutions for [6Companies30Days Challenge](https://www.youtube.com/watch?v=4dBadnH-k0o) by [Arsh Goyal](https://twitter.com/arsh_goyal)
 
 List of Questions [link](https://www.proelevate.in/dsa-practice/6-companies-30-days) 
-
+ <br><br>
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (02/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (05/15)</summary>
 
 Sr  | [Problems](https://github.com/Shah-Namra/6Companies30Days/tree/main/Goldman%20Sachs)                                                                                     | Try It                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -20,8 +20,9 @@ Sr  | [Problems](https://github.com/Shah-Namra/6Companies30Days/tree/main/Goldma
 
 </details>
 
+<br>
 
-## 🌐 Let's Connect
+## Let's Connect
 Connect with me on 
 [Twitter](https://twitter.com/Namra_Shah_****) 
 [LinkedIn](https://www.linkedin.com/in/shah-namra/) 
