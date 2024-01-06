@@ -7,7 +7,7 @@ List of Questions [link](https://www.proelevate.in/dsa-practice/6-companies-30-d
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (05/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (06/15)</summary>
 
 Sr  | [Problems](https://github.com/Shah-Namra/6Companies30Days/tree/main/Goldman%20Sachs)                                                                                     | Try It                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
